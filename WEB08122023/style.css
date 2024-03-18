@@ -1,0 +1,33 @@
+/* Hier können individuelle CSS-Stile angepasst werden */
+
+body {
+  padding-top: 70px; /* Platz für die Navbar */
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.custom-footer {
+      background-color: yellow; /* Blauer Hintergrund */
+      color: green; /* Weiße Schriftfarbe */
+      height: 50px; /* Höhe des Footers */
+      line-height: 50px; /* Vertikale Ausrichtung des Texts */
+    }
+	
+    .new{
+      background-color: #007bff; /* Blauer Hintergrund */
+      color: white; /* Weiße Schriftfarbe */
+      height: 50px; /* Höhe des Footers */
+      line-height: 50px; /* Vertikale Ausrichtung des Texts */
+
+    }
+    
+    .was{
+      background-color: white;
+      color: red; /* Weiße Schriftfarbe */
+      height: 50px; /* Höhe des Footers */
+      line-height: 50px; /* Vertikale Ausrichtung des Texts */
+
+
+    }
